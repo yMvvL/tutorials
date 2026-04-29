@@ -1,0 +1,13 @@
+# Ignore everything except the three platform dirs
+/*
+!*/
+!/Atcoder/**
+!/Codeforces/**
+!/Luogu/**
+!template.cpp
+
+# Anyway, also ignore OS junk
+*.swp
+*.swo
+Thumbs.db
+.DS_Store
